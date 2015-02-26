@@ -1,2 +1,3 @@
 # Hello-World
-Tutorial Repository
+Tutorial Repository. 
+Hello. I am a programmer.
